@@ -1,2 +1,2 @@
 # hello-world
-This is a test repository
+This is my first edit using GitHub branch and commit functionality. 
